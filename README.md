@@ -1,6 +1,7 @@
 # Covid19-India-dashboard-using-R_Shinydashboard
 
 ### This Project was done to apply the knowledge of webscrapping and to build a webapp dashboard to showcase the number of confirmed cases, deaths and recovered cases in India.
+### Python Webscraper Fetech_data.py file was deployed on AWS EC2 instance and scheduled using cron at every 6 hours to fetch the Statewise status table from MoHFW site and update the local database on the AWS servers.
 
 ### Languages and Libraries Used : 
 #### * Python - BeautifulSoup, requests, pandas
