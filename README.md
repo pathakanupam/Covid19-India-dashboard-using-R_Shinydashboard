@@ -1,4 +1,4 @@
-# Covid19-India-dashboard-using-R_Shinydashboard
+# Covid19 India dashboard using R-Shinydashboard
 
 #### This Project aimed at applying the knowledge of webscrapping and to build a webapp dashboard to showcase the total cummulative confirmed cases, deaths and recovered cases of covid19 in India till 30th april 2020.
 
